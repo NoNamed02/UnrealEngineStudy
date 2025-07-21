@@ -5,12 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/User/Documents/Unreal Projects/Intro/Content/NewMap.umap",
+				"/Users/User/Documents/GitHub/UnrealEngineStudy/Intro/Content/NewMap.umap",
 				"/Users/User/Documents/GitHub/UnrealEngineStudy/Intro/Content/StarterContent/Maps/Minimal_Default.umap",
-				"/Users/User/Documents/GitHub/UnrealEngineStudy/Intro/Content/BP_Projectile.uasset",
-				"/Users/User/Documents/GitHub/UnrealEngineStudy/Intro/Content/Maps/basic.umap",
-				"/Users/kmu_silgammedia/Documents/Unreal Projects/Intro/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset",
-				"/Users/kmu_silgammedia/Documents/Unreal Projects/Intro/Content/StarterContent/Maps/Minimal_Default.umap",
-				"/Users/kmu_silgammedia/Documents/Unreal Projects/Intro/Content/BP_Projectile.uasset"
+				"/Users/User/Documents/Unreal Projects/Intro/Content/Maps/basic.umap"
 			]
 		}
 	]
