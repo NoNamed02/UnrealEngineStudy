@@ -15,14 +15,24 @@ AMovingPlatform::AMovingPlatform()
 void AMovingPlatform::BeginPlay()
 {
 	Super::BeginPlay();
-	
-	MyInt = 9;
+
 }
 
 // Called every frame
 void AMovingPlatform::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+	
+	FVector LocalVector = MyVector;
+	LocalVector.X++;
+	LocalVector.Y++;
+	SetActorLocation(LocalVector);
+	//MyVector.X += 1;
+	//SetActorLocation(MyVector);
 
+	// Move platform forward
+		// get transform(init)
+		// add vector
+		// set location
+	// 생략--
 }
-

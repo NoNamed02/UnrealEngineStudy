@@ -24,11 +24,5 @@ public:
 	virtual void Tick(float DeltaTime) override;
 
 	UPROPERTY(EditAnywhere)
-	int MyInt = 99; // 굳이 int32???
-
-	UPROPERTY(EditAnywhere)
-	float TestA = 0.0001f;
-
-	UPROPERTY(EditAnywhere)
-	bool TestB = false;
+	FVector MyVector = FVector(1, 2, 3);
 };
